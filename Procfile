@@ -1,1 +1,1 @@
-npx nx build api
+web: node dist/apps/api/main.js
